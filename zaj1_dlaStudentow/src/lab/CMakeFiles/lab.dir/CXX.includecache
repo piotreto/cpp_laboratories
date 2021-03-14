@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/piotreto/C++/zaj1_dlaStudentow/src/lab/fraction.cpp
+iostream
+-
+cstring
+-
+cctype
+-
+string
+-
+fraction.h
+/home/piotreto/C++/zaj1_dlaStudentow/src/lab/fraction.h
+
+/home/piotreto/C++/zaj1_dlaStudentow/src/lab/fraction.h
+iosfwd
+-
+string
+-
+iostream
+-
+
