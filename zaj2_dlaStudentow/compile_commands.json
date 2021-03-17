@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/piotreto/C++/zaj2_dlaStudentow/googletest-build/googlemock",
+  "command": "/usr/bin/c++   -isystem /home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googlemock/include -isystem /home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googlemock -isystem /home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googletest/include -isystem /home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googletest    -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/piotreto/C++/zaj2_dlaStudentow/googletest-build/googlemock",
+  "command": "/usr/bin/c++   -I/home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googlemock/include -I/home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googlemock -isystem /home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googletest/include -isystem /home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googletest    -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/piotreto/C++/zaj2_dlaStudentow/googletest-build/googletest",
+  "command": "/usr/bin/c++   -isystem /home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googletest/include -isystem /home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googletest    -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/piotreto/C++/zaj2_dlaStudentow/googletest-build/googletest",
+  "command": "/usr/bin/c++   -I/home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googletest/include -I/home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googletest    -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/piotreto/C++/zaj2_dlaStudentow/src/lab2",
+  "command": "/usr/bin/c++   -I/home/piotreto/C++/zaj2_dlaStudentow/src -isystem /home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googletest/include -isystem /home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googletest   -Wall -Wextra -pedantic    -o CMakeFiles/lab.dir/main.cpp.o -c /home/piotreto/C++/zaj2_dlaStudentow/src/lab2/main.cpp",
+  "file": "/home/piotreto/C++/zaj2_dlaStudentow/src/lab2/main.cpp"
+},
+{
+  "directory": "/home/piotreto/C++/zaj2_dlaStudentow/src/lab2",
+  "command": "/usr/bin/c++   -I/home/piotreto/C++/zaj2_dlaStudentow/src -isystem /home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googletest/include -isystem /home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googletest   -Wall -Wextra -pedantic    -o CMakeFiles/lab.dir/matrix.cc.o -c /home/piotreto/C++/zaj2_dlaStudentow/src/lab2/matrix.cc",
+  "file": "/home/piotreto/C++/zaj2_dlaStudentow/src/lab2/matrix.cc"
+},
+{
+  "directory": "/home/piotreto/C++/zaj2_dlaStudentow/src/lab2",
+  "command": "/usr/bin/c++   -I/home/piotreto/C++/zaj2_dlaStudentow/src -isystem /home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googletest/include -isystem /home/piotreto/C++/zaj2_dlaStudentow/googletest-src/googletest   -Wall -Wextra -pedantic    -o CMakeFiles/lab.dir/matrixTests.cc.o -c /home/piotreto/C++/zaj2_dlaStudentow/src/lab2/matrixTests.cc",
+  "file": "/home/piotreto/C++/zaj2_dlaStudentow/src/lab2/matrixTests.cc"
+},
+{
+  "directory": "/home/piotreto/C++/zaj2_dlaStudentow/src/utils",
+  "command": "/usr/bin/c++     -Wall -Wextra -pedantic    -o CMakeFiles/Utils.dir/argumentParsing.cpp.o -c /home/piotreto/C++/zaj2_dlaStudentow/src/utils/argumentParsing.cpp",
+  "file": "/home/piotreto/C++/zaj2_dlaStudentow/src/utils/argumentParsing.cpp"
+},
+{
+  "directory": "/home/piotreto/C++/zaj2_dlaStudentow/src/utils",
+  "command": "/usr/bin/c++     -Wall -Wextra -pedantic    -o CMakeFiles/Utils.dir/programmerDetails.cpp.o -c /home/piotreto/C++/zaj2_dlaStudentow/src/utils/programmerDetails.cpp",
+  "file": "/home/piotreto/C++/zaj2_dlaStudentow/src/utils/programmerDetails.cpp"
+},
+{
+  "directory": "/home/piotreto/C++/zaj2_dlaStudentow/src/utils",
+  "command": "/usr/bin/c++     -Wall -Wextra -pedantic    -o CMakeFiles/Utils.dir/programmersDetails.cpp.o -c /home/piotreto/C++/zaj2_dlaStudentow/src/utils/programmersDetails.cpp",
+  "file": "/home/piotreto/C++/zaj2_dlaStudentow/src/utils/programmersDetails.cpp"
+}
+]

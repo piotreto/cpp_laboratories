@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/home/piotreto/C++/zaj2_dlaStudentow/googletest-download/CMakeFiles/googletest
+/home/piotreto/C++/zaj2_dlaStudentow/googletest-download/CMakeFiles/googletest.rule
+/home/piotreto/C++/zaj2_dlaStudentow/googletest-download/CMakeFiles/googletest-complete.rule
+/home/piotreto/C++/zaj2_dlaStudentow/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/home/piotreto/C++/zaj2_dlaStudentow/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/home/piotreto/C++/zaj2_dlaStudentow/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/home/piotreto/C++/zaj2_dlaStudentow/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule
+/home/piotreto/C++/zaj2_dlaStudentow/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/home/piotreto/C++/zaj2_dlaStudentow/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/home/piotreto/C++/zaj2_dlaStudentow/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/home/piotreto/C++/zaj2_dlaStudentow/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule
